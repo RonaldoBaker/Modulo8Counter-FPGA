@@ -15,4 +15,4 @@ To increment the counter by 1, the least significant bit, A0, must be 1, while A
 
 ![DE0-Nano LED Lights](https://github.com/RonaldoBaker/Modulo8Counter-FPGA/blob/main/DE0-Nano%203.jpg)
 
-Refer to the repository for two videos of the modulo-8 counter. The first counts from 0 to 3, then the reset button is pressed. The second counts all the way from 0 to 7.
+Please refer to the repository for two videos of the modulo-8 counter. The first counts from 0 to 3, then the reset button is pressed. The second counts all the way from 0 to 7.
