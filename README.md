@@ -12,6 +12,6 @@ Finally, the 3-bit adder was connected together with a 3-bit register (based on 
 
 To increment the counter by 1, the least significant bit, A0, must be 1, while A1 and A2 are 0. This is shown in the image below where SW0 is turned on. The output of the counter is displayed from least-significant bit on the right, moving to the most-significant bit on the left. The further left LED signifies the carry out of the 3-bit adder.  
 
-//insert image of led lights
+![DE0-Nano LED Lights](https://github.com/RonaldoBaker/Modulo8Counter-FPGA/blob/main/DE0-Nano%203.jpg)
 
 Refer to the repository for two videos of the modulo-8 counter. The first counts from 0 to 3, then the reset button is pressed. The second counts all the way from 0 to 7.
